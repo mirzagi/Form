@@ -1,4 +1,4 @@
-g<html>
+<html>
 <title>Web page </title>
 <head>
 </head>
