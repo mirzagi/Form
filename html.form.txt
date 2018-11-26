@@ -1,0 +1,14 @@
+<html>
+<title>Web page </title>
+<head>
+</head>
+<body>
+<form>
+First name : <br>
+<input type:"text" name="Firstname"><br>
+Last name :  <br>
+<input type:"text" name="Lastname"> 
+</form>
+
+</body>
+</html>
