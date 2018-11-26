@@ -1,4 +1,4 @@
-<html>
+g<html>
 <title>Web page </title>
 <head>
 </head>
@@ -9,7 +9,9 @@ First name : <br>
 Last name :  <br>
 <input type:"text" name="Lastname">
 Father name : <br>
-<input type: "text" Fname="Firstname"> 
+<input type: "text" Fname="Firstname">
+Mother name : <br>
+<input type: "text" Mname="Firstname"> 
 </form>
 
 </body>
