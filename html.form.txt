@@ -7,7 +7,9 @@
 First name : <br>
 <input type:"text" name="Firstname"><br>
 Last name :  <br>
-<input type:"text" name="Lastname"> 
+<input type:"text" name="Lastname">
+Father name : <br>
+<input type: "text" Fname="Firstname"> 
 </form>
 
 </body>
